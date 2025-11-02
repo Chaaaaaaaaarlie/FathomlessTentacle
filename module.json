@@ -2,7 +2,7 @@
   "id": "fathomless-tentacle",
   "title": "Fathomless Tentacle Helper",
   "description": "Beschwört virtuell einen Punkt im 60-ft-Umkreis und führt den Bonusangriff 'Tentacle Strike' vom Fathomless Tentacle-Actor auf ein Ziel in 10 ft aus. MidiQOL-Dialog inklusive.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -38,5 +38,5 @@
   },
   "url": "https://example.invalid",
   "manifest": "https://raw.githubusercontent.com/Chaaaaaaaaarlie/FathomlessTentacle/main/module.json",
-  "download": "https://github.com/Chaaaaaaaaarlie/FathomlessTentacle/releases/download/v0.0.1/fathomless-tentacle-.zip"
+  "download": "https://github.com/Chaaaaaaaaarlie/FathomlessTentacle/releases/download/v0.0.2/fathomless-tentacle.zip"
 }
