@@ -1,8 +1,8 @@
 {
   "id": "fathomless-tentacle",
   "title": "Fathomless Tentacle Helper",
-  "description": "Beschwört virtuell einen Punkt im 60-ft-Umkreis und führt den Bonusangriff 'Tentacle Strike' vom Fathomless Tentacle-Actor auf ein Ziel in 10 ft aus. MidiQOL-Dialog inklusive.",
-  "version": "1.1.8",
+  "description": "BeschwÃ¶rt virtuell einen Punkt im 60-ft-Umkreis und fÃ¼hrt den Bonusangriff 'Tentacle Strike' vom Fathomless Tentacle-Actor auf ein Ziel in 10 ft aus. MidiQOL-Dialog inklusive.",
+  "version": "1.1.9",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
