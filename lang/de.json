@@ -1,0 +1,16 @@
+{
+  "FT.Modules.Name": "Fathomless Tentacle Helper",
+  "FT.Settings.ActorName.Name": "Tentacle-Actorname",
+  "FT.Settings.ActorName.Hint": "Exakter Name (z. B. „Fathomless Tentacle“).",
+  "FT.Settings.ItemName.Name": "Bonusaktion-Itemname",
+  "FT.Settings.ItemName.Hint": "Exakter Name (z. B. „Tentacle Strike“).",
+  "FT.Settings.MaxDist.Name": "Max. Distanz Caster → Punkt (ft)",
+  "FT.Settings.MaxDist.Hint": "Standard 60 ft.",
+  "FT.Settings.Debug.Name": "Debug an",
+  "FT.Settings.Debug.Hint": "Debug-Nachrichten in Konsole und als Whisper.",
+  "FT.Settings.SpawnLinked.Name": "Token mit Actor verlinken",
+  "FT.Settings.SpawnLinked.Hint": "Verlinktes Token (true) oder Kopie (false).",
+  "FT.Settings.SpawnDisposition.Name": "Disposition des Tokens",
+  "FT.Settings.SpawnDisposition.Hint": "1 freundlich, 0 neutral, -1 feindlich.",
+  "FT.HUD.Button": "Tentacle"
+}
